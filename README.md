@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Niya Saji👋
 
-<!--
-**NiyaSaji25MIB10017/NiyaSaji25MIB10017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated M.Tech AI & Bioinformatics  
+🏫 VIT Bhopal 
+🎓 1st Year
 
-Here are some ideas to get you started:
+## 🌿 A little about me
+I'm currently figuring out my way through AI, data science, and programming.  
+Still learning, still making mistakes, but enjoying the process....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I'm working towards
+- Getting better at coding  
+- Building projects that actually work (and maybe look good too)  
+- Understanding concepts, not just memorizing them  
+- Growing step by step in tech
+
+
+## 🌟 what I hope to learn
+I hope to learn coding deeply, turn my ideas into real projects, improve my problem-solving skills, and grow confidently in tech.
+
+✨ Thanks for visiting my GitHub space!
