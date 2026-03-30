@@ -2,7 +2,6 @@
 
 🎓 Integrated M.Tech AI & Bioinformatics  
 🏫 VIT Bhopal 
-
 🎓 1st Year
 
 ## 🌿 A little about me
