@@ -20,6 +20,6 @@ I hope to learn coding deeply, turn my ideas into real projects, improve my prob
 
 ## 📫 You can reach me here:
 - linkedin- www.linkedin.com/in/niya-saji-4a077339b
-- e-mail-niya.25mib10017@vitbhopal.ac.in
+- e-mail- niya.25mib10017@vitbhopal.ac.in
 
 ✨ Thanks for visiting my GitHub space!
